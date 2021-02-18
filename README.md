@@ -1,6 +1,12 @@
 # Getting Started with Create React App
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/069a5873-65e7-4e22-b914-af0ac89bca2c/deploy-status)](https://app.netlify.com/sites/rickandmorty-web/deploys)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Show deployed app
+
+Visit [https://rickandmorty-web.netlify.app/](https://rickandmorty-web.netlify.app/)
 
 ## Available Scripts
 
