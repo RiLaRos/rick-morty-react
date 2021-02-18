@@ -4,21 +4,7 @@ import "../index.css";
 import logo from "../images/logo.png";
 
 import Loader from "./Loader";
-
-function CharacterCard(props) {
-  const { character } = props;
-
-  return (
-    <div
-      className="CharacterCard"
-      style={{ backgroundImage: `url(${character.image})` }}
-    >
-      <div className="CharacterCard__name-container text-truncate">
-        {character.name}
-      </div>
-    </div>
-  );
-}
+import CharacterCard from "./CharacterCard";
 
 class App extends React.Component {
   state = {
